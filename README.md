@@ -8,8 +8,6 @@ This project implements a next-word prediction model trained on the complete tex
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Model Details](#-model-details)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ## Features
 
