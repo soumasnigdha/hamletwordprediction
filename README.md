@@ -16,7 +16,7 @@ This project implements a next-word prediction model trained on the complete tex
 - **Next Word Prediction**: Predicts the next word based on user input.
 - **Streamlit Web Application**: An interactive and user-friendly interface for real-time predictions.
 
-## ⚙Installation
+## Installation
 
 To set up the project locally, follow these steps:
 
